@@ -8,10 +8,14 @@ Spring security from basic to advanced level.
 * examples of worst security incidents that cause financial losses
 * OWASP
 * antiviruses
-* different level of security
+* different levels/layers of security
+
 
 #### App security terms - authentication, authorization, roles, 
 
+* Authentication - Who are u ?? - Knowledge bases, possesion based, multi factor- k+p, 
+* authrization - what you are allowed to do?
+Principal - login then created
 * session hijacking
 * csrf
 * dos attack
