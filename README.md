@@ -23,9 +23,20 @@ Principal - login then created
 #### What spring security has to offer??
 different characteristics
 
-#### first sample spring boot app to secure end point
- add spring-security-starter
- 
-####
+#### 👉 Understanding default spring security behaviour - Demo
+
+#### 👉 How spring security authentication works
+
+#### 👉 Authenticationa & authorization using In-memory database
+
+#### 👉 Authenticationa & authorization using MySQL database
+
+#### 👉 Customizing form login page
+
+#### 👉 Understanding Token based authentication
+
+#### 👉 JWT - Json Web Token - All theory about it
+
+#### 👉 JWT + Spring Security - Demo Application
 
 
