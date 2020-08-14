@@ -39,4 +39,48 @@ different characteristics
 
 #### 👉 JWT + Spring Security - Demo Application
 
+#### 👉 OAUTH2 
+
+* What's this all about - Theory
+
+* OAuth2 + spring security - Demo (Authentication with google/facebook/github)
+
+* Custom Auth Server - Client Credentials and password grant
+
+* Customize Auth Server to Generate JWT token
+
+* Custom Resource Server
+
+* Token Relay and making request to Resource server using Web Client
+
+#### 👉 LDAP - All theory about it
+
+#### 👉 LDAP + Spring Security- Demo
+
+#### 👉 Password storing mechanism 
+
+* how the password is stored in db
+
+* different algorithm to secure password
+
+#### 👉 Demo Application 
+
+Sample microservice handling all of this - > 
+
+* User creation with default password
+
+* e-mail and account validation
+
+* remember-me 
+
+* password change
+
+* forgot password
+
+* security questions
+
+* user password reset
+
+* session management in spring security
+
 
